@@ -15,20 +15,17 @@
 ---
 
 ### 🚀 Key Focus Areas
-* [cite_start]**Performance Engineering:** Diseño de frameworks de carga con Locust y Python para mitigar cuellos de botella (latencias P95/P99)[cite: 9, 19].
-* [cite_start]**Full-Stack Automation:** Arquitecturas E2E escalables con Playwright/TS y suites de API con RestAssured/Java[cite: 12, 14, 21].
-* [cite_start]**DevOps & CI/CD:** Integración proactiva de pruebas en pipelines de GitLab CI y GitHub Actions[cite: 14, 23].
-* [cite_start]**Data Integrity:** Validación de migraciones de bases de datos complejas (SQL Server/PostgreSQL)[cite: 30].
+* **Performance Engineering:** Diseño de frameworks de carga con Locust y Python para mitigar cuellos de botella (latencias P95/P99)[cite: 9, 19].
+* **Full-Stack Automation:** Arquitecturas E2E escalables con Playwright/TS y suites de API con RestAssured/Java[cite: 12, 14, 21].
+* **DevOps & CI/CD:** Integración proactiva de pruebas en pipelines de GitLab CI y GitHub Actions[cite: 14, 23].
+* **Data Integrity:** Validación de migraciones de bases de datos complejas (SQL Server/PostgreSQL)[cite: 30].
 
 ---
 
 ### 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmastring&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmastring&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect with me
-* **LinkedIn:** [Tu link de LinkedIn]
-* [cite_start]**Email:** [Tmastring@gmail.com](mailto:Tmastring@gmail.com) [cite: 4]
-* [cite_start]**Phone:** [+34 699 13 34 24](tel:+34699133424) [cite: 3]
+
