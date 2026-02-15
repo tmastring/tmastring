@@ -1,7 +1,7 @@
 # Hi, I'm  👋
 ## Test Repository
 
-> [cite_start]Actúo como puente técnico/funcional entre negocio y desarrollo para facilitar la entrega ágil y robusta[cite: 6].
+> Actúo como puente técnico/funcional entre negocio y desarrollo para facilitar la entrega ágil y robusta[cite: 6].
 
 ---
 
@@ -22,10 +22,5 @@
 
 ---
 
-### 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmastring&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmastring&layout=compact&theme=radical)
-
----
 
 
